@@ -1,0 +1,6 @@
+BIENVENUE DANS LE MODULE Recette
+
+1) Afficher la liste des recette
+2) Ajouter une recette
+3) Supprimer recette
+4) Retour menu

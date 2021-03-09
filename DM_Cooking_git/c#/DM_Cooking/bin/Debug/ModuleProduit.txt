@@ -1,0 +1,8 @@
+BIENVENUE DANS LE MODULE Produit
+
+1) Afficher la liste des Produits
+2) Réduire le stock des Produits
+3) Passer Commande
+4) Nouveau produit
+5) Nouveau Fournisseur
+6) Retour menu

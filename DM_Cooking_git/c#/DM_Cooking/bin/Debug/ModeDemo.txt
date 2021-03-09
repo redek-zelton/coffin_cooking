@@ -1,0 +1,4 @@
+BIENVENUE DANS LE 'MODE DEMO'
+1) Afficher l'ensemble des demande
+2) Trouver recette à partir d'un ingrédient
+3) retour menu

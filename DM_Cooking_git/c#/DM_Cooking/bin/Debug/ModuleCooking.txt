@@ -1,0 +1,8 @@
+
+
+1) Afficher les clients
+2) Domaine des produits/marchandises
+3) Augmenter le prix
+4) Supprimer un CDR
+5) Affichage XML
+6) Retour menu

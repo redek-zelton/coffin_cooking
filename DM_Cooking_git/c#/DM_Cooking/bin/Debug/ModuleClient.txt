@@ -1,0 +1,6 @@
+
+
+1) Afficher la carte
+2) Passer commande
+3) Modifier Tel
+4) Retour menu
